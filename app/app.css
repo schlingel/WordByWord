@@ -1,0 +1,24 @@
+﻿page {
+    background-color: #333333;
+}
+
+.title {
+    font-size: 30;
+    horizontal-align: center;
+    margin: 20;
+}
+
+button {
+    font-size: 42;
+    horizontal-align: center;
+}
+
+.message {
+    font-size: 20;
+    color: #F2F2F2;
+    horizontal-align: center;
+    margin: 15;
+    margin-top: 60;
+    line-height: 24;
+    text-align: center;
+}

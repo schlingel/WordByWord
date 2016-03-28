@@ -1,0 +1,12 @@
+failed to find module xyz relative to /app/tns_module
+-> npm i install xzy 
+
+failed to find solution to use unirest
+-> dependencies killed tns dependecies -> broke build
+
+Error `Uncaught TypeError: util.inherits is not a function
+-> circular dependency between util and inherits - wtf!?
+
+-> Core Problem: HTTP has to be used directly from tns
+
+-> Broken Runtime erros -> just doesn't work. Silent NPE.	

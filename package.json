@@ -1,0 +1,15 @@
+{
+  "nativescript": {
+    "id": "org.nativescript.WordByWord",
+    "tns-android": {
+      "version": "1.7.1"
+    },
+    "tns-ios": {
+      "version": "1.7.0"
+    }
+  },
+  "dependencies": {
+    "the-dom": "^0.1.0",
+    "tns-core-modules": "^1.7.1"
+  }
+}
